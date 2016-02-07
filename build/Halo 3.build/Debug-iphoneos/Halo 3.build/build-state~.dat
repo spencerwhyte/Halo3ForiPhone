@@ -1,0 +1,2668 @@
+THalo 3
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B554B000000000001AD10
+t1261131083
+s109840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004B2B55470000000000000ED7
+t1261131079
+s3799
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioSession.h
+c000000004B2B55470000000000000806
+t1261131079
+s2054
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h
+c000000004B2B539700000000000060BB
+t1261130647
+s24763
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004B2B6602000000000000022F
+t1261135362
+s559
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004B2B664D0000000000178100
+t1261135437
+s1540352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5672000000000000094F
+t1261131378
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B56720000000000000A61
+t1261131378
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B56720000000000009369
+t1261131378
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B56720000000000002A42
+t1261131378
+s10818
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B567E000000000003C1A0
+t1261131390
+s246176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B5700000000000000007D
+t1261131520
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B57EF00000000001C27F0
+t1261131759
+s1845232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/Availability.h
+c000000004B2B564700000000000019F9
+t1261131335
+s6649
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/math.h
+c000000004B2B3EDF00000000000004F1
+t1261125343
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/netinet/in.h
+c000000004B2B49E4000000000000535B
+t1261128164
+s21339
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/sys/socket.h
+c000000004B2B49EE0000000000005660
+t1261128174
+s22112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/time.h
+c000000004B2B3F10000000000000178E
+t1261125392
+s6030
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/unistd.h
+c000000004B2B3F1000000000000053FF
+t1261125392
+s21503
+
+N/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.h
+c000000004B9EC5B10000000000000281
+t1268696497
+s641
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m
+c000000004B8058C2000000000000191E
+t1266702530
+s6430
+i"AssaultRifle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h
+c000000004BA0221F0000000000000383
+t1268785695
+s899
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"Stats.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/BattleRifle.m
+c000000004BA023E00000000000001FA8
+t1268786144
+s8104
+i"BattleRifle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/BeamRifle.h
+c000000004BA02212000000000000025B
+t1268785682
+s603
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/BeamRifle.m
+c000000004AC824EA0000000000000A8D
+t1254630634
+s2701
+i"BeamRifle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/BlenderObject.h
+c000000004B9EC6AE00000000000002CF
+t1268696750
+s719
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/BlenderObject.m
+c000000004AA470AF0000000000000C74
+t1252290735
+s3188
+i"BlenderObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Bridge.h
+c000000004B9EC5CC0000000000000274
+t1268696524
+s628
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Bridge.m
+c000000004B6D07D30000000000000A33
+t1265436627
+s2611
+i"Bridge.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Contrail.h
+c000000004B9EFEE60000000000000272
+t1268711142
+s626
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/Contrail.m
+c000000004B9EFA0D000000000000014D
+t1268709901
+s333
+i"Contrail.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/DoubleBox.h
+c000000004B87127300000000000001F5
+t1267143283
+s501
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"Stats.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/DoubleBox.m
+c000000004B8AC815000000000000182A
+t1267386389
+s6186
+i"DoubleBox.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/DoubleBoxOpen.h
+c000000004B9EC5DC000000000000028E
+t1268696540
+s654
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/DoubleBoxOpen.m
+c000000004B870B830000000000000B73
+t1267141507
+s2931
+i"DoubleBoxOpen.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/EAGLView.h
+c000000004BB3D1810000000000000C9F
+t1270075777
+s3231
+i"LocalPlayer.h"
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<Foundation/Foundation.h>
+i"MasterChief.h"
+i"BlenderObject.h"
+i"foundry.h"
+i"DoubleBox.h"
+i"Bridge.h"
+i"HUD.h"
+i"Ghost.h"
+i"Logo.h"
+i"DoubleBoxOpen.h"
+i"SingleBoxOpen.h"
+i"World.h"
+i<AVFoundation/AVAudioPlayer.h>
+i"SniperRifle.h"
+i"TrafficCone.h"
+i"BattleRifle.h"
+i"SingleBox.h"
+i"Networking.h"
+i"AssaultRifle.h"
+i"NetworkPlayer.h"
+i"Stats.h"
+i"SMG.h"
+i<MediaPlayer/MediaPlayer.h>
+i"Menu.h"
+i"PlasmaGrenade.h"
+i<time.h>
+i"JerseyBarrier.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/EAGLView.m
+c000000004BB3D1F90000000000005382
+t1270075897
+s21378
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Foundry.h
+c000000004B9EC65A00000000000003BB
+t1268696666
+s955
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"Stats.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Foundry.m
+c000000004BB28ABA00000000000025B2
+t1269992122
+s9650
+i"Foundry.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/GameKeeper.h
+c000000004B6E3F3700000000000000D2
+t1265516343
+s210
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/GameKeeper.m
+c000000004B6E3F2E00000000000000BD
+t1265516334
+s189
+i"GameKeeper.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Ghost.h
+c000000004B9EC65A0000000000000208
+t1268696666
+s520
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Ghost.m
+c000000004ADA93FD0000000000000A55
+t1255838717
+s2645
+i"Ghost.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HUD.h
+c000000004BA184D40000000000000718
+t1268876500
+s1816
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BattleRifle.h"
+i"SniperRifle.h"
+i"SMG.h"
+i"Medal.h"
+i"AVFoundation/AVAudioPlayer.h"
+i<AVFoundation/AVAudioSession.h>
+i"LocalPlayer.h"
+i"NetworkPlayer.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HUD.m
+c000000004BA1AC1F0000000000004CB0
+t1268886559
+s19632
+i"HUD.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloObject.h
+c000000004AC16D000000000000000297
+t1254190336
+s663
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloObject.m
+c000000004AC16D0D0000000000000250
+t1254190349
+s592
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloVehicle.h
+c000000004AD52B7800000000000000DD
+t1255484280
+s221
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloVehicle.m
+c000000004AD0A8CB00000000000000C8
+t1255188683
+s200
+i"HaloVehicle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloWeapon.h
+c000000004AD52B6D00000000000000DB
+t1255484269
+s219
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/HaloWeapon.m
+c000000004AD0A8C200000000000000C5
+t1255188674
+s197
+i"HaloWeapon.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Halo_3AppDelegate.h
+c000000004ACCCB86000000000000019F
+t1254935430
+s415
+i<UIKit/UIKit.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/Halo_3AppDelegate.m
+c000000004ACCCB8600000000000002C8
+t1254935430
+s712
+i"Halo_3AppDelegate.h"
+i"EAGLView.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/JerseyBarrier.h
+c000000004BB3D44E000000000000026D
+t1270076494
+s621
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/JerseyBarrier.m
+c000000004BB3D6070000000000000A9D
+t1270076935
+s2717
+i"JerseyBarrier.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/LocalPlayer.h
+c000000004BA1A6D8000000000000052E
+t1268885208
+s1326
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"DoubleBox.h"
+i"Bridge.h"
+i"HUD.h"
+i"Medal.h"
+i"NetworkPlayer.h"
+i<time.h>
+i"ScoreKeeper.h"
+i"SniperRifle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/LocalPlayer.m
+c000000004BB3325A00000000000040B3
+t1270035034
+s16563
+i"LocalPlayer.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Logo.h
+c000000004B9EC696000000000000024D
+t1268696726
+s589
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Logo.m
+c000000004ADA93FD0000000000000924
+t1255838717
+s2340
+i"Logo.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/MasterChief.h
+c000000004B9EC65A0000000000000485
+t1268696666
+s1157
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"Stats.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/MasterChief.m
+c000000004BA6C7EB00000000000016BD
+t1269221355
+s5821
+i"MasterChief.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Medal.h
+c000000004B6E01D5000000000000063F
+t1265500629
+s1599
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/Medal.m
+c000000004B6E01FC0000000000000144
+t1265500668
+s324
+i"Medal.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Menu.h
+c000000004B9EE16A00000000000001DA
+t1268703594
+s474
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Foundry.h"
+i"Ghost.h"
+i"DoubleBox.h"
+i"Bridge.h"
+i<math.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/Menu.m
+c000000004B9EE54F0000000000000C00
+t1268704591
+s3072
+i"Menu.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.h
+c000000004BA74FD600000000000001F6
+t1269256150
+s502
+i<Foundation/Foundation.h>
+i"Player.h"
+i<time.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.m
+c000000004B87524D00000000000006A6
+t1267159629
+s1702
+i"NetworkPlayer.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Networking.h
+c000000004B8AC43100000000000005D7
+t1267385393
+s1495
+i<Foundation/Foundation.h>
+i<CFNetwork/CFSocketStream.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i"LocalPlayer.h"
+i"NetworkPlayer.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Networking.m
+c000000004B8AC3D10000000000001A96
+t1267385297
+s6806
+i"Networking.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Oddball.h
+c000000004B8A0BFA000000000000029B
+t1267338234
+s667
+i<Foundation/Foundation.h>
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Oddball.m
+c000000004B8A0D0E0000000000000F4F
+t1267338510
+s3919
+i"Oddball.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/PlasmaGrenade.h
+c000000004B9FEC4C00000000000003C7
+t1268771916
+s967
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"DoubleBox.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/PlasmaGrenade.m
+c000000004BA011F000000000000019F1
+t1268781552
+s6641
+i"PlasmaGrenade.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Player.h
+c000000004B8710530000000000000198
+t1267142739
+s408
+i<Foundation/Foundation.h>
+i"MasterChief.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Player.m
+c000000004B6E4EC60000000000000129
+t1265520326
+s297
+i"Player.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SMG.h
+c000000004BA000A70000000000000386
+t1268777127
+s902
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"Stats.h"
+i"LocalPlayer.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SMG.m
+c000000004BA175A100000000000015B8
+t1268872609
+s5560
+i"SMG.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/ScoreKeeper.h
+c000000004B96FDFD0000000000000198
+t1268186621
+s408
+i<Foundation/Foundation.h>
+i<time.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/ScoreKeeper.m
+c000000004B96FE0E0000000000000150
+t1268186638
+s336
+i"ScoreKeeper.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SingleBox.h
+c000000004AD74D1900000000000001E1
+t1255623961
+s481
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SingleBox.m
+c000000004AD7E7AB000000000000123D
+t1255663531
+s4669
+i"SingleBox.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SingleBoxOpen.h
+c000000004B9EC65A0000000000000254
+t1268696666
+s596
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SingleBoxOpen.m
+c000000004ADA93FE0000000000000A9F
+t1255838718
+s2719
+i"SingleBoxOpen.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SniperRifle.h
+c000000004BA01151000000000000033A
+t1268781393
+s826
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+i"Stats.h"
+i"Contrail.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/SniperRifle.m
+c000000004BB3CE2C0000000000001CD0
+t1270074924
+s7376
+i"SniperRifle.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Stats.c
+c000000004B871078000000000000009E
+t1267142776
+s158
+i"Stats.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/Stats.h
+c000000004B87BB290000000000000098
+t1267186473
+s152
+
+N/Users/spencerwhyte/Halo 3/Classes/TrafficCone.h
+c000000004B9EC657000000000000023F
+t1268696663
+s575
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"BlenderObject.h"
+i"HaloObject.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/TrafficCone.m
+c000000004BB3CEB200000000000004D1
+t1270075058
+s1233
+i"TrafficCone.h"
+
+N/Users/spencerwhyte/Halo 3/Classes/World.h
+c000000004AC16FD30000000000000143
+t1254191059
+s323
+i<Foundation/Foundation.h>
+
+N/Users/spencerwhyte/Halo 3/Classes/World.m
+c000000004B6E3ED200000000000000B2
+t1265516242
+s178
+i"World.h"
+
+N/Users/spencerwhyte/Halo 3/DoubleBox1.png
+c000000004A80B7C1000000000001D842
+t1249949633
+s120898
+
+N/Users/spencerwhyte/Halo 3/DoubleBox2.png
+c000000004A809ABB00000000000191EA
+t1249942203
+s102890
+
+N/Users/spencerwhyte/Halo 3/DoubleBox3.png
+c000000004AEA4805000000000001BB3F
+t1256867845
+s113471
+
+N/Users/spencerwhyte/Halo 3/DoubleBox4.png
+c000000004AEA483C000000000001A561
+t1256867900
+s107873
+
+N/Users/spencerwhyte/Halo 3/DoubleBox5.png
+c000000004AEA481B000000000001CB30
+t1256867867
+s117552
+
+N/Users/spencerwhyte/Halo 3/DoubleBox6.png
+c000000004A809AE6000000000001A5AD
+t1249942246
+s107949
+
+N/Users/spencerwhyte/Halo 3/FPSniperL1.gldata
+c000000004BB2B737000000000001D496
+t1270003511
+s119958
+
+N/Users/spencerwhyte/Halo 3/H3.mp3
+c000000004AC822D900000000005628D2
+t1254630105
+s5646546
+
+N/Users/spencerwhyte/Halo 3/Halo_3-Info.plist
+c000000004BCD2C4A00000000000003CE
+t1271737418
+s974
+
+N/Users/spencerwhyte/Halo 3/Halo_3_Prefix.pch
+c000000004AD731B10000000000000136
+t1255616945
+s310
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/spencerwhyte/Halo 3/ICE.png
+c000000004B816C460000000000029740
+t1266773062
+s169792
+
+N/Users/spencerwhyte/Halo 3/JerseyBarrier.gldata
+c000000004BB296300000000000000B2E
+t1269995056
+s2862
+
+N/Users/spencerwhyte/Halo 3/MKVI.gldata
+c000000004AEB84A00000000000041388
+t1256948896
+s267144
+
+N/Users/spencerwhyte/Halo 3/MKVI.png
+c000000004A7103E3000000000006B6E3
+t1248920547
+s440035
+
+N/Users/spencerwhyte/Halo 3/MKVI2.gldata
+c000000004B80BC0E00000000000208C8
+t1266727950
+s133320
+
+N/Users/spencerwhyte/Halo 3/MKVI2.png
+c000000004B80B509000000000002368C
+t1266726153
+s145036
+
+N/Users/spencerwhyte/Halo 3/MKVI3.gldata
+c000000004B80B72900000000000103CE
+t1266726697
+s66510
+
+N/Users/spencerwhyte/Halo 3/MKVIR2.gldata
+c000000004BA1AE5D000000000000798C
+t1268887133
+s31116
+
+N/Users/spencerwhyte/Halo 3/MainWindow.xib
+c000000004AD731B1000000000000256C
+t1255616945
+s9580
+
+N/Users/spencerwhyte/Halo 3/PlasmaGrenadeBurst.png
+c000000004B9FE67D00000000000007B9
+t1268770429
+s1977
+
+N/Users/spencerwhyte/Halo 3/Resources-iPad/MainWindow-iPad.xib
+c000000004BCD2C4B000000000000270D
+t1271737419
+s9997
+
+N/Users/spencerwhyte/Halo 3/SB1.png
+c000000004AD748020000000000015FCB
+t1255622658
+s90059
+
+N/Users/spencerwhyte/Halo 3/SB2.png
+c000000004AD748020000000000014F28
+t1255622658
+s85800
+
+N/Users/spencerwhyte/Halo 3/SB3.png
+c000000004AD748030000000000014066
+t1255622659
+s82022
+
+N/Users/spencerwhyte/Halo 3/SB4.png
+c000000004AD7480300000000000189EB
+t1255622659
+s100843
+
+N/Users/spencerwhyte/Halo 3/SB5.png
+c000000004AD748030000000000013CA9
+t1255622659
+s81065
+
+N/Users/spencerwhyte/Halo 3/SB6.png
+c000000004AD748030000000000015822
+t1255622659
+s88098
+
+N/Users/spencerwhyte/Halo 3/SMG2.gldata
+c000000004B9C5E030000000000016968
+t1268538883
+s92520
+
+N/Users/spencerwhyte/Halo 3/Shaders/Shader.fsh
+c000000004AD731B100000000000000D8
+t1255616945
+s216
+
+N/Users/spencerwhyte/Halo 3/Shaders/Shader.vsh
+c000000004AD731B10000000000000159
+t1255616945
+s345
+
+N/Users/spencerwhyte/Halo 3/SniperL1.gldata
+c000000004BB2A3680000000000032148
+t1269998440
+s205128
+
+N/Users/spencerwhyte/Halo 3/ambientFoundry.mp3
+c000000004AD69E2B00000000002E02D3
+t1255579179
+s3015379
+
+N/Users/spencerwhyte/Halo 3/assaultrifle.png
+c000000004A5BAEA900000000000306C3
+t1247522473
+s198339
+
+N/Users/spencerwhyte/Halo 3/ball.gldata
+c000000004B8A015A000000000000C4DA
+t1267335514
+s50394
+
+N/Users/spencerwhyte/Halo 3/ball2.gldata
+c000000004B8A00F2000000000000620A
+t1267335410
+s25098
+
+N/Users/spencerwhyte/Halo 3/ball3.gldata
+c000000004B8A012D000000000000217E
+t1267335469
+s8574
+
+N/Users/spencerwhyte/Halo 3/battleRifle.gldata
+c000000004ADA9680000000000001A592
+t1255839360
+s107922
+
+N/Users/spencerwhyte/Halo 3/battleRifle.png
+c000000004AC96368000000000001A207
+t1254712168
+s107015
+
+N/Users/spencerwhyte/Halo 3/battle_rifle_main.png
+c000000004B9D2DB80000000000005F9E
+t1268592056
+s24478
+
+N/Users/spencerwhyte/Halo 3/br1.gldata
+c000000004B9D2F750000000000045DA4
+t1268592501
+s286116
+
+N/Users/spencerwhyte/Halo 3/brFlash1.png
+c000000004B96F62F0000000000001CD1
+t1268184623
+s7377
+
+N/Users/spencerwhyte/Halo 3/brNum.png
+c000000004B65EC0F0000000000006C00
+t1264970767
+s27648
+
+N/Users/spencerwhyte/Halo 3/bridge.gldata
+c000000004A80F3780000000000002646
+t1249964920
+s9798
+
+N/Users/spencerwhyte/Halo 3/bridgeTexture.png
+c000000004A91D322000000000004081E
+t1251070754
+s264222
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app.dSYM
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox1.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox2.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox3.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox4.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox5.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox6.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/FPSniperL1.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/H3.mp3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Halo 3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Halo_3-Info.plist
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ICE.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Info.plist
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/JerseyBarrier.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI2.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI2.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI3.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVIR2.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MainWindow.nib
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/PkgInfo
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/PlasmaGrenadeBurst.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ResourceRules.plist
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB1.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB2.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB3.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB4.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB5.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB6.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SMG2.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Shader.fsh
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Shader.vsh
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SniperL1.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ambientFoundry.mp3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/assaultrifle.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ball.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ball2.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ball3.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/battleRifle.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/battleRifle.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/battle_rifle_main.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/br1.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/brFlash1.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/brNum.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/bridge.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/bridgeTexture.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/cddd.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/corner.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/corner.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/doubleBoxOpen.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/doubleBoxOpen.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/doubleKill.wav
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/electricArcs.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/f.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/floor.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry2.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry2R.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundryFull.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundryR.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundryv1.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/genericPlasma.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ghost.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ghost.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/greySquare.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/greySquareFull.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/head.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud2.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud3.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/icon.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/jerseybarrier.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/killingFrenzy.wav
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/killingSpree.wav
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/logo.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/masterchief.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/masterchief.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/mc.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/medals.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/menuMusic.mp3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/menuTexture.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/middleFloor.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/oddBall.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/pg.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaGDecal.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaGrenade.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaGrenade.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaTwirl.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmagelect.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/preMenu.m4v
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/radarPlayer.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/runningRiot.wav
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/singleBoxOpen.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/singleBoxOpen.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/slayerCallout.mp3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smg.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smgFlash.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smoothGreySquare.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smoothGreySquareFull.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperContrail.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperMuzzleFlash.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperRifle.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperRifle.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniper_rifle.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sweeper.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/test.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/torso.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/trafficCone.gldata
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/untouchable.wav
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/yellowSquare.png
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/AssaultRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BattleRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BeamRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BlenderObject.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Bridge.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Contrail.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/DoubleBox.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/DoubleBoxOpen.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/EAGLView.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Foundry.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/GameKeeper.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Ghost.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HUD.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Halo 3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Halo 3.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloObject.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloVehicle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloWeapon.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Halo_3AppDelegate.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/JerseyBarrier.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/LocalPlayer.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Logo.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/MasterChief.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Medal.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Menu.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/NetworkPlayer.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Networking.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Oddball.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/PlasmaGrenade.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Player.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SMG.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/ScoreKeeper.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SingleBox.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SingleBoxOpen.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SniperRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Stats.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/TrafficCone.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/World.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/AssaultRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BattleRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BeamRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BlenderObject.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Bridge.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Contrail.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/DoubleBox.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/DoubleBoxOpen.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/EAGLView.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Foundry.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/GameKeeper.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Ghost.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HUD.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Halo 3
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Halo 3.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloObject.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloVehicle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloWeapon.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Halo_3AppDelegate.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/JerseyBarrier.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/LocalPlayer.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Logo.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/MasterChief.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Medal.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Menu.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/NetworkPlayer.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Networking.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Oddball.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/PlasmaGrenade.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Player.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SMG.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/ScoreKeeper.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SingleBox.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SingleBoxOpen.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SniperRifle.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Stats.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/TrafficCone.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/World.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/spencerwhyte/Halo 3/cddd.png
+c000000004B9ECF190000000000003C5D
+t1268698905
+s15453
+
+N/Users/spencerwhyte/Halo 3/corner.gldata
+c000000004ABE8FDC00000000000008CA
+t1254002652
+s2250
+
+N/Users/spencerwhyte/Halo 3/corner.png
+c000000004ABE908E00000000000BF912
+t1254002830
+s784658
+
+N/Users/spencerwhyte/Halo 3/doubleBoxOpen.gldata
+c000000004ABECA520000000000001CB6
+t1254017618
+s7350
+
+N/Users/spencerwhyte/Halo 3/doubleBoxOpen.png
+c000000004AEA47A100000000000512AF
+t1256867745
+s332463
+
+N/Users/spencerwhyte/Halo 3/doubleKill.wav
+c0000000047FC063A0000000000028AD0
+t1207699002
+s166608
+
+N/Users/spencerwhyte/Halo 3/electricArcs.png
+c000000004B9FA73500000000000017C1
+t1268754229
+s6081
+
+N/Users/spencerwhyte/Halo 3/f.png
+c000000004A5BAEA900000000000306C3
+t1247522473
+s198339
+
+N/Users/spencerwhyte/Halo 3/floor.png
+c000000004BB2881E0000000000009F28
+t1269991454
+s40744
+
+N/Users/spencerwhyte/Halo 3/foundry.gldata
+c000000004B99BFF5000000000000AB5A
+t1268367349
+s43866
+
+N/Users/spencerwhyte/Halo 3/foundry.png
+c000000004A820FE90000000000125582
+t1250037737
+s1201538
+
+N/Users/spencerwhyte/Halo 3/foundry2.gldata
+c000000004AB549FE000000000000019E
+t1253394942
+s414
+
+N/Users/spencerwhyte/Halo 3/foundry2R.png
+c000000004AC4155C000000000004CEE8
+t1254364508
+s315112
+
+N/Users/spencerwhyte/Halo 3/foundryFull.png
+c000000004A787F2C000000000013B7EA
+t1249410860
+s1292266
+
+N/Users/spencerwhyte/Halo 3/foundryR.png
+c000000004B80BEA7000000000005CAE4
+t1266728615
+s379620
+
+N/Users/spencerwhyte/Halo 3/foundryv1.gldata
+c000000004AC7FDAF000000000000AC26
+t1254620591
+s44070
+
+N/Users/spencerwhyte/Halo 3/genericPlasma.png
+c000000004B9FE75D0000000000002B6B
+t1268770653
+s11115
+
+N/Users/spencerwhyte/Halo 3/ghost.gldata
+c000000004A9206AD0000000000019C02
+t1251083949
+s105474
+
+N/Users/spencerwhyte/Halo 3/ghost.png
+c000000004A91F82D0000000000056F89
+t1251080237
+s356233
+
+N/Users/spencerwhyte/Halo 3/greySquare.png
+c000000004AC5E1CB0000000000006FE6
+t1254482379
+s28646
+
+N/Users/spencerwhyte/Halo 3/greySquareFull.png
+c000000004A765735000000000005A05C
+t1249269557
+s368732
+
+N/Users/spencerwhyte/Halo 3/head.gldata
+c000000004A773953000000000001D166
+t1249327443
+s119142
+
+N/Users/spencerwhyte/Halo 3/hud.png
+c000000004B9C644C000000000001BDC7
+t1268540492
+s114119
+
+N/Users/spencerwhyte/Halo 3/hud2.png
+c000000004A91A0950000000000000606
+t1251057813
+s1542
+
+N/Users/spencerwhyte/Halo 3/hud3.png
+c000000004B6B61A1000000000000C1E6
+t1265328545
+s49638
+
+N/Users/spencerwhyte/Halo 3/icon.png
+c000000004AD693280000000000001339
+t1255576360
+s4921
+
+N/Users/spencerwhyte/Halo 3/jerseybarrier.png
+c000000004BB2738B0000000000088EEA
+t1269986187
+s560874
+
+N/Users/spencerwhyte/Halo 3/killingFrenzy.wav
+c0000000047FC07700000000000036C0C
+t1207699312
+s224268
+
+N/Users/spencerwhyte/Halo 3/killingSpree.wav
+c0000000047FC075E000000000002D5E4
+t1207699294
+s185828
+
+N/Users/spencerwhyte/Halo 3/logo.gldata
+c000000004ABD49040000000000010236
+t1253918980
+s66102
+
+N/Users/spencerwhyte/Halo 3/main.m
+c000000004AD731B1000000000000016A
+t1255616945
+s362
+i<UIKit/UIKit.h>
+
+N/Users/spencerwhyte/Halo 3/masterchief.gldata
+c000000004A5BDE3F000000000004BC12
+t1247534655
+s310290
+
+N/Users/spencerwhyte/Halo 3/masterchief.png
+c000000004A5BDE80000000000007E32E
+t1247534720
+s516910
+
+N/Users/spencerwhyte/Halo 3/mc.gldata
+c000000004A51E2450000000000017460
+t1246880325
+s95328
+
+N/Users/spencerwhyte/Halo 3/medals.png
+c000000004B6DD136000000000003AC17
+t1265488182
+s240663
+
+N/Users/spencerwhyte/Halo 3/menuMusic.mp3
+c000000004B9D995E0000000000B2102A
+t1268619614
+s11669546
+
+N/Users/spencerwhyte/Halo 3/menuTexture.png
+c000000004B9EBD590000000000007767
+t1268694361
+s30567
+
+N/Users/spencerwhyte/Halo 3/middleFloor.png
+c000000004AA9B0E1000000000001B7D8
+t1252634849
+s112600
+
+N/Users/spencerwhyte/Halo 3/oddBall.png
+c000000004B8A0358000000000000BCA7
+t1267336024
+s48295
+
+N/Users/spencerwhyte/Halo 3/pg.png
+c000000004B9FEF890000000000000C6A
+t1268772745
+s3178
+
+N/Users/spencerwhyte/Halo 3/plasmaGDecal.png
+c000000004B9FA60C000000000000295F
+t1268753932
+s10591
+
+N/Users/spencerwhyte/Halo 3/plasmaGrenade.gldata
+c000000004B9FA88A0000000000001986
+t1268754570
+s6534
+
+N/Users/spencerwhyte/Halo 3/plasmaGrenade.png
+c000000004B9FD04A000000000000325A
+t1268764746
+s12890
+
+N/Users/spencerwhyte/Halo 3/plasmaTwirl.png
+c000000004B9FA71D0000000000000D2A
+t1268754205
+s3370
+
+N/Users/spencerwhyte/Halo 3/plasmagelect.png
+c000000004B9FA7020000000000000813
+t1268754178
+s2067
+
+N/Users/spencerwhyte/Halo 3/preMenu.m4v
+c000000004B9E97D100000000002F4FE4
+t1268684753
+s3100644
+
+N/Users/spencerwhyte/Halo 3/radarPlayer.png
+c000000004BA1799B00000000000001DF
+t1268873627
+s479
+
+N/Users/spencerwhyte/Halo 3/runningRiot.wav
+c0000000047FC07830000000000036C0C
+t1207699331
+s224268
+
+N/Users/spencerwhyte/Halo 3/singleBoxOpen.gldata
+c000000004ABFDF4A0000000000001986
+t1254088522
+s6534
+
+N/Users/spencerwhyte/Halo 3/singleBoxOpen.png
+c000000004AEB852E0000000000059AD1
+t1256949038
+s367313
+
+N/Users/spencerwhyte/Halo 3/slayerCallout.mp3
+c000000004AD69E62000000000000675A
+t1255579234
+s26458
+
+N/Users/spencerwhyte/Halo 3/smg.png
+c000000004B9C572A0000000000005CD3
+t1268537130
+s23763
+
+N/Users/spencerwhyte/Halo 3/smgFlash.png
+c000000004B89FAA40000000000000F12
+t1267333796
+s3858
+
+N/Users/spencerwhyte/Halo 3/smoothGreySquare.png
+c000000004AC5E2250000000000006A18
+t1254482469
+s27160
+
+N/Users/spencerwhyte/Halo 3/smoothGreySquareFull.png
+c000000004A765FB100000000000489E0
+t1249271729
+s297440
+
+N/Users/spencerwhyte/Halo 3/sniperContrail.png
+c000000004B9EF2B100000000000001CB
+t1268708017
+s459
+
+N/Users/spencerwhyte/Halo 3/sniperMuzzleFlash.png
+c000000004B9FA6E90000000000000AED
+t1268754153
+s2797
+
+N/Users/spencerwhyte/Halo 3/sniperRifle.gldata
+c000000004ACD00D100000000000142C2
+t1254949073
+s82626
+
+N/Users/spencerwhyte/Halo 3/sniperRifle.png
+c000000004B6DD391000000000001854C
+t1265488785
+s99660
+
+N/Users/spencerwhyte/Halo 3/sniper_rifle.png
+c000000004BB2A73A0000000000021E37
+t1269999418
+s138807
+
+N/Users/spencerwhyte/Halo 3/sweeper.png
+c000000004BA166B20000000000001F6D
+t1268868786
+s8045
+
+N/Users/spencerwhyte/Halo 3/test.gldata
+c000000004AA3416F000000000000026A
+t1252213103
+s618
+
+N/Users/spencerwhyte/Halo 3/torso.gldata
+c000000004A7745C8000000000001A790
+t1249330632
+s108432
+
+N/Users/spencerwhyte/Halo 3/trafficCone.gldata
+c000000004AEB868D0000000000001CB6
+t1256949389
+s7350
+
+N/Users/spencerwhyte/Halo 3/untouchable.wav
+c0000000047FC07A30000000000043440
+t1207699363
+s275520
+
+N/Users/spencerwhyte/Halo 3/yellowSquare.png
+c000000004AC5E212000000000000A4BD
+t1254482450
+s42173
+
+N/var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-aaakmbbwrlexbgbjsgqkuknkrvxd/Halo_3_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-aagqzushagtwrxfovrqrewnxnkbz/Halo_3_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-chmxbvjbptxkenbswfwocxchkwku/Halo_3_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-edfbkpbisscvwobxwasofjugkkha/Halo_3_Prefix.pch.gch
+t2
+s0
+
+NHalo_3-Info.plist
+c000000004BCD2C4A00000000000003CE
+t1271737418
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294037876#294037876#0(373"[WARN]Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Halo_3-Info.plist'.[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: building with 'Targeted Device Family' that includes iPad ('1,2') requires building with the 3.2 or later SDK.3(22@106"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Halo_3-Info.plist'.294037876#18446744073709551615#0#0(1@0"0(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain294037876#18446744073709551615#0#0(1@0"0(22@119"warning: building with 'Targeted Device Family' that includes iPad ('1,2') requires building with the 3.2 or later SDK.294037876#18446744073709551615#0#0(1@0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/AssaultRifle.o" "/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BattleRifle.o" "/Users/spencerwhyte/Halo 3/Classes/BattleRifle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BeamRifle.o" "/Users/spencerwhyte/Halo 3/Classes/BeamRifle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/BlenderObject.o" "/Users/spencerwhyte/Halo 3/Classes/BlenderObject.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Bridge.o" "/Users/spencerwhyte/Halo 3/Classes/Bridge.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Contrail.o" "/Users/spencerwhyte/Halo 3/Classes/Contrail.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/DoubleBox.o" "/Users/spencerwhyte/Halo 3/Classes/DoubleBox.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/DoubleBoxOpen.o" "/Users/spencerwhyte/Halo 3/Classes/DoubleBoxOpen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/EAGLView.o" "/Users/spencerwhyte/Halo 3/Classes/EAGLView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Foundry.o" "/Users/spencerwhyte/Halo 3/Classes/Foundry.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/GameKeeper.o" "/Users/spencerwhyte/Halo 3/Classes/GameKeeper.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Ghost.o" "/Users/spencerwhyte/Halo 3/Classes/Ghost.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HUD.o" "/Users/spencerwhyte/Halo 3/Classes/HUD.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloObject.o" "/Users/spencerwhyte/Halo 3/Classes/HaloObject.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloVehicle.o" "/Users/spencerwhyte/Halo 3/Classes/HaloVehicle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/HaloWeapon.o" "/Users/spencerwhyte/Halo 3/Classes/HaloWeapon.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Halo_3AppDelegate.o" "/Users/spencerwhyte/Halo 3/Classes/Halo_3AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/JerseyBarrier.o" "/Users/spencerwhyte/Halo 3/Classes/JerseyBarrier.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/LocalPlayer.o" "/Users/spencerwhyte/Halo 3/Classes/LocalPlayer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Logo.o" "/Users/spencerwhyte/Halo 3/Classes/Logo.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/MasterChief.o" "/Users/spencerwhyte/Halo 3/Classes/MasterChief.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Medal.o" "/Users/spencerwhyte/Halo 3/Classes/Medal.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Menu.o" "/Users/spencerwhyte/Halo 3/Classes/Menu.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/NetworkPlayer.o" "/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Networking.o" "/Users/spencerwhyte/Halo 3/Classes/Networking.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Oddball.o" "/Users/spencerwhyte/Halo 3/Classes/Oddball.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/PlasmaGrenade.o" "/Users/spencerwhyte/Halo 3/Classes/PlasmaGrenade.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Player.o" "/Users/spencerwhyte/Halo 3/Classes/Player.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SMG.o" "/Users/spencerwhyte/Halo 3/Classes/SMG.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/ScoreKeeper.o" "/Users/spencerwhyte/Halo 3/Classes/ScoreKeeper.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SingleBox.o" "/Users/spencerwhyte/Halo 3/Classes/SingleBox.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SingleBoxOpen.o" "/Users/spencerwhyte/Halo 3/Classes/SingleBoxOpen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/SniperRifle.o" "/Users/spencerwhyte/Halo 3/Classes/SniperRifle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Stats.o" "/Users/spencerwhyte/Halo 3/Classes/Stats.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/TrafficCone.o" "/Users/spencerwhyte/Halo 3/Classes/TrafficCone.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/World.o" "/Users/spencerwhyte/Halo 3/Classes/World.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/main.o" "/Users/spencerwhyte/Halo 3/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/AssaultRifle.o" "/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BattleRifle.o" "/Users/spencerwhyte/Halo 3/Classes/BattleRifle.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BeamRifle.o" "/Users/spencerwhyte/Halo 3/Classes/BeamRifle.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/BlenderObject.o" "/Users/spencerwhyte/Halo 3/Classes/BlenderObject.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Bridge.o" "/Users/spencerwhyte/Halo 3/Classes/Bridge.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Contrail.o" "/Users/spencerwhyte/Halo 3/Classes/Contrail.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/DoubleBox.o" "/Users/spencerwhyte/Halo 3/Classes/DoubleBox.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/DoubleBoxOpen.o" "/Users/spencerwhyte/Halo 3/Classes/DoubleBoxOpen.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/EAGLView.o" "/Users/spencerwhyte/Halo 3/Classes/EAGLView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Foundry.o" "/Users/spencerwhyte/Halo 3/Classes/Foundry.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/GameKeeper.o" "/Users/spencerwhyte/Halo 3/Classes/GameKeeper.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Ghost.o" "/Users/spencerwhyte/Halo 3/Classes/Ghost.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HUD.o" "/Users/spencerwhyte/Halo 3/Classes/HUD.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloObject.o" "/Users/spencerwhyte/Halo 3/Classes/HaloObject.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloVehicle.o" "/Users/spencerwhyte/Halo 3/Classes/HaloVehicle.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/HaloWeapon.o" "/Users/spencerwhyte/Halo 3/Classes/HaloWeapon.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Halo_3AppDelegate.o" "/Users/spencerwhyte/Halo 3/Classes/Halo_3AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/JerseyBarrier.o" "/Users/spencerwhyte/Halo 3/Classes/JerseyBarrier.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/LocalPlayer.o" "/Users/spencerwhyte/Halo 3/Classes/LocalPlayer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Logo.o" "/Users/spencerwhyte/Halo 3/Classes/Logo.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/MasterChief.o" "/Users/spencerwhyte/Halo 3/Classes/MasterChief.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Medal.o" "/Users/spencerwhyte/Halo 3/Classes/Medal.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Menu.o" "/Users/spencerwhyte/Halo 3/Classes/Menu.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/NetworkPlayer.o" "/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Networking.o" "/Users/spencerwhyte/Halo 3/Classes/Networking.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Oddball.o" "/Users/spencerwhyte/Halo 3/Classes/Oddball.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/PlasmaGrenade.o" "/Users/spencerwhyte/Halo 3/Classes/PlasmaGrenade.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Player.o" "/Users/spencerwhyte/Halo 3/Classes/Player.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SMG.o" "/Users/spencerwhyte/Halo 3/Classes/SMG.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/ScoreKeeper.o" "/Users/spencerwhyte/Halo 3/Classes/ScoreKeeper.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SingleBox.o" "/Users/spencerwhyte/Halo 3/Classes/SingleBox.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SingleBoxOpen.o" "/Users/spencerwhyte/Halo 3/Classes/SingleBoxOpen.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/SniperRifle.o" "/Users/spencerwhyte/Halo 3/Classes/SniperRifle.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Stats.o" "/Users/spencerwhyte/Halo 3/Classes/Stats.c" normal armv7 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/TrafficCone.o" "/Users/spencerwhyte/Halo 3/Classes/TrafficCone.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/World.o" "/Users/spencerwhyte/Halo 3/Classes/World.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/main.o" "/Users/spencerwhyte/Halo 3/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/spencerwhyte/Halo 3/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/spencerwhyte/Halo 3/Resources-iPad/MainWindow-iPad.xib"
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox1.png" DoubleBox1.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox2.png" DoubleBox2.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox3.png" DoubleBox3.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox4.png" DoubleBox4.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox5.png" DoubleBox5.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/DoubleBox6.png" DoubleBox6.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ICE.png" ICE.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI.png" MKVI.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/MKVI2.png" MKVI2.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/PlasmaGrenadeBurst.png" PlasmaGrenadeBurst.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB1.png" SB1.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB2.png" SB2.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB3.png" SB3.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB4.png" SB4.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB5.png" SB5.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/SB6.png" SB6.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/assaultrifle.png" assaultrifle.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/battleRifle.png" battleRifle.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/battle_rifle_main.png" battle_rifle_main.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/brFlash1.png" brFlash1.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/brNum.png" brNum.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/bridgeTexture.png" bridgeTexture.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/cddd.png" cddd.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/corner.png" corner.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/doubleBoxOpen.png" doubleBoxOpen.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/electricArcs.png" electricArcs.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/f.png" f.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/floor.png" floor.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry.png" foundry.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundry2R.png" foundry2R.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundryFull.png" foundryFull.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/foundryR.png" foundryR.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/genericPlasma.png" genericPlasma.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/ghost.png" ghost.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/greySquare.png" greySquare.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/greySquareFull.png" greySquareFull.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud.png" hud.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud2.png" hud2.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/hud3.png" hud3.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/jerseybarrier.png" jerseybarrier.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/masterchief.png" masterchief.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/medals.png" medals.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/menuTexture.png" menuTexture.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/middleFloor.png" middleFloor.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/oddBall.png" oddBall.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/pg.png" pg.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaGDecal.png" plasmaGDecal.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaGrenade.png" plasmaGrenade.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmaTwirl.png" plasmaTwirl.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/plasmagelect.png" plasmagelect.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/radarPlayer.png" radarPlayer.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/singleBoxOpen.png" singleBoxOpen.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smg.png" smg.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smgFlash.png" smgFlash.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smoothGreySquare.png" smoothGreySquare.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/smoothGreySquareFull.png" smoothGreySquareFull.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperContrail.png" sniperContrail.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperMuzzleFlash.png" sniperMuzzleFlash.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniperRifle.png" sniperRifle.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sniper_rifle.png" sniper_rifle.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/sweeper.png" sweeper.png
+r0
+
+CCopyPNGFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/yellowSquare.png" yellowSquare.png
+r0
+
+CCopyPlistFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Halo_3-Info.plist" Halo_3-Info.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/FPSniperL1.gldata" FPSniperL1.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/H3.mp3" H3.mp3
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/JerseyBarrier.gldata" JerseyBarrier.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/MKVI.gldata" MKVI.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/MKVI2.gldata" MKVI2.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/MKVI3.gldata" MKVI3.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/MKVIR2.gldata" MKVIR2.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/SMG2.gldata" SMG2.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/Shader.fsh" Shaders/Shader.fsh
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/Shader.vsh" Shaders/Shader.vsh
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/SniperL1.gldata" SniperL1.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ambientFoundry.mp3" ambientFoundry.mp3
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ball.gldata" ball.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ball2.gldata" ball2.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ball3.gldata" ball3.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/battleRifle.gldata" battleRifle.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/br1.gldata" br1.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/bridge.gldata" bridge.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/corner.gldata" corner.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/doubleBoxOpen.gldata" doubleBoxOpen.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/doubleKill.wav" doubleKill.wav
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/foundry.gldata" foundry.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/foundry2.gldata" foundry2.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/foundryv1.gldata" foundryv1.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/ghost.gldata" ghost.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/head.gldata" head.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/killingFrenzy.wav" killingFrenzy.wav
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/killingSpree.wav" killingSpree.wav
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/logo.gldata" logo.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/masterchief.gldata" masterchief.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/mc.gldata" mc.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/menuMusic.mp3" menuMusic.mp3
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/plasmaGrenade.gldata" plasmaGrenade.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/preMenu.m4v" preMenu.m4v
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/runningRiot.wav" runningRiot.wav
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/singleBoxOpen.gldata" singleBoxOpen.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/slayerCallout.mp3" slayerCallout.mp3
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/sniperRifle.gldata" sniperRifle.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/test.gldata" test.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/torso.gldata" torso.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/trafficCone.gldata" trafficCone.gldata
+r0
+
+CCpResource "build/Debug-iphoneos/Halo 3.app/untouchable.wav" untouchable.wav
+r0
+
+CCreateUniversalBinary "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Halo 3" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app.dSYM" "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Halo 3"
+r0
+
+CLd "/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv6/Halo 3" normal armv6
+r0
+
+CLd "/Users/spencerwhyte/Halo 3/build/Halo 3.build/Debug-iphoneos/Halo 3.build/Objects-normal/armv7/Halo 3" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app/Info.plist" Halo_3-Info.plist
+r0
+
+CProcessPCH /var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-aaakmbbwrlexbgbjsgqkuknkrvxd/Halo_3_Prefix.pch.gch Halo_3_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-aagqzushagtwrxfovrqrewnxnkbz/Halo_3_Prefix.pch.gch Halo_3_Prefix.pch normal armv7 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-chmxbvjbptxkenbswfwocxchkwku/Halo_3_Prefix.pch.gch Halo_3_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/t+/t+mDLEErH10OmrEqCleGzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Halo_3_Prefix-edfbkpbisscvwobxwasofjugkkha/Halo_3_Prefix.pch.gch Halo_3_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/spencerwhyte/Halo 3/build/Debug-iphoneos/Halo 3.app"
+r0
+

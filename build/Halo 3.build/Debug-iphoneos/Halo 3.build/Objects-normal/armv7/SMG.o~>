@@ -1,0 +1,50 @@
+In file included from /Users/spencerwhyte/Halo 3/Classes/Player.h:10,
+                 from /Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.h:10,
+                 from /Users/spencerwhyte/Halo 3/Classes/HUD.h:20,
+                 from /Users/spencerwhyte/Halo 3/Classes/LocalPlayer.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/SMG.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/SMG.m:9:
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:51: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:51: warning: assign attribute (default) not appropriate for non-gc object property 'localPlayer'
+/Users/spencerwhyte/Halo 3/Classes/SMG.m: In function '+[SMG damage]':
+/Users/spencerwhyte/Halo 3/Classes/SMG.m:185: warning: instance variable 'damage' accessed in class method
+/Users/spencerwhyte/Halo 3/Classes/SMG.m: At top level:
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:16: warning: 'texture' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/Bridge.h:20: warning: 'bridges' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:15: warning: 'battleRifleData' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:17: warning: 'battleRifleVertexCount' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:18: warning: 'battleRifleTriangleCount' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:19: warning: 'hudTexture' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:20: warning: 'brNum' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/BattleRifle.h:21: warning: 'brFlash' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/SniperRifle.h:21: warning: 'contrailTexture' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/SniperRifle.h:22: warning: 'contrails' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/SniperRifle.h:23: warning: 'muzzleFlash' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:21: warning: 'vertexCount2' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:22: warning: 'triangleCount2' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:24: warning: 'vertexCount3' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:25: warning: 'triangleCount3' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:26: warning: 'masterChiefs' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:21: warning: 'textureHUD' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:22: warning: 'medals' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:23: warning: 'health' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:24: warning: 'loaded' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:25: warning: 'primaryWeapon' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:26: warning: 'secondaryWeapon' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:27: warning: 'place' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:28: warning: 'medalx' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:29: warning: 'medaly' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:30: warning: 'hasWaited' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:31: warning: 'currentMedals' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:32: warning: 'requestedMedals' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:33: warning: 'enemyInSight' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:34: warning: 'friendlyInSight' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:35: warning: 'sweeper' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:36: warning: 'sweeperProgress' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:37: warning: 'radarPlayer' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:38: warning: 'hasMovedx' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:39: warning: 'hasMovedy' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:40: warning: 'hasMovedz' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:41: warning: 'hasMovedTime' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/HUD.h:42: warning: 'lpp' defined but not used
+/Users/spencerwhyte/Halo 3/Classes/SMG.h:22: warning: 'smgs' defined but not used

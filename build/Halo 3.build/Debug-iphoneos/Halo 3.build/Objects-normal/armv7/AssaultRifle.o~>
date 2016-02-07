@@ -1,0 +1,98 @@
+In file included from /Users/spencerwhyte/Halo 3/Classes/Player.h:10,
+                 from /Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.h:10,
+                 from /Users/spencerwhyte/Halo 3/Classes/HUD.h:20,
+                 from /Users/spencerwhyte/Halo 3/Classes/LocalPlayer.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/AssaultRifle.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m:9:
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:51: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/spencerwhyte/Halo 3/Classes/MasterChief.h:51: warning: assign attribute (default) not appropriate for non-gc object property 'localPlayer'
+In file included from /Users/spencerwhyte/Halo 3/Classes/HUD.h:20,
+                 from /Users/spencerwhyte/Halo 3/Classes/LocalPlayer.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/AssaultRifle.h:16,
+                 from /Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m:9:
+/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.h:27: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/spencerwhyte/Halo 3/Classes/NetworkPlayer.h:27: warning: assign attribute (default) not appropriate for non-gc object property 'Name'
+/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m: In function '-[AssaultRifle draw]':
+/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m:119: error: expected expression before ',' token
+/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m: In function '+[AssaultRifle damage]':
+/Users/spencerwhyte/Halo 3/Classes/AssaultRifle.m:192: warning: instance variable 'damage' accessed in class method
+{standard input}:728:non-relocatable subtraction expression, "_data" minus "L46"
+{standard input}:728:symbol: "_data" can't be undefined in a subtraction expression
+{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L45"
+{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:726:non-relocatable subtraction expression, "_triangleCount" minus "L44"
+{standard input}:726:symbol: "_triangleCount" can't be undefined in a subtraction expression
+{standard input}:725:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L43"
+{standard input}:725:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:724:non-relocatable subtraction expression, "_data" minus "L42"
+{standard input}:724:symbol: "_data" can't be undefined in a subtraction expression
+{standard input}:723:non-relocatable subtraction expression, "_triangleCount" minus "L41"
+{standard input}:723:symbol: "_triangleCount" can't be undefined in a subtraction expression
+{standard input}:722:non-relocatable subtraction expression, "_triangleCount" minus "L40"
+{standard input}:722:symbol: "_triangleCount" can't be undefined in a subtraction expression
+{standard input}:721:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L39"
+{standard input}:721:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:720:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L38"
+{standard input}:720:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:719:non-relocatable subtraction expression, "_vertexCount" minus "L37"
+{standard input}:719:symbol: "_vertexCount" can't be undefined in a subtraction expression
+{standard input}:718:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L36"
+{standard input}:718:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L35"
+{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L34"
+{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:715:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L33"
+{standard input}:715:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:712:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L30"
+{standard input}:712:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:711:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L29"
+{standard input}:711:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:710:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L28"
+{standard input}:710:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:452:non-relocatable subtraction expression, "_assaultRifleFlash" minus "L19"
+{standard input}:452:symbol: "_assaultRifleFlash" can't be undefined in a subtraction expression
+{standard input}:451:non-relocatable subtraction expression, "_assaultRifleFlash" minus "L18"
+{standard input}:451:symbol: "_assaultRifleFlash" can't be undefined in a subtraction expression
+{standard input}:450:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L14"
+{standard input}:450:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:449:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L13"
+{standard input}:449:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:448:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L12"
+{standard input}:448:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+{standard input}:445:non-relocatable subtraction expression, "_texture55" minus "L10"
+{standard input}:445:symbol: "_texture55" can't be undefined in a subtraction expression
+{standard input}:444:non-relocatable subtraction expression, "_texture55" minus "L9"
+{standard input}:444:symbol: "_texture55" can't be undefined in a subtraction expression
+{standard input}:440:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"
+{standard input}:440:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L4"
+{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:438:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L3"
+{standard input}:438:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+{standard input}:unknown:Undefined local symbol L_CGImageGetWidth$stub
+{standard input}:unknown:Undefined local symbol L_CGImageGetHeight$stub
+{standard input}:unknown:Undefined local symbol L_malloc$stub
+{standard input}:unknown:Undefined local symbol L___memset_chk$stub
+{standard input}:unknown:Undefined local symbol L_CGImageGetColorSpace$stub
+{standard input}:unknown:Undefined local symbol L_CGBitmapContextCreate$stub
+{standard input}:unknown:Undefined local symbol L_CGContextTranslateCTM$stub
+{standard input}:unknown:Undefined local symbol L_CGContextScaleCTM$stub
+{standard input}:unknown:Undefined local symbol L_CGContextDrawImage$stub
+{standard input}:unknown:Undefined local symbol L_CGContextRelease$stub
+{standard input}:unknown:Undefined local symbol L_glGenTextures$stub
+{standard input}:unknown:Undefined local symbol L_glBindTexture$stub
+{standard input}:unknown:Undefined local symbol L_glTexImage2D$stub
+{standard input}:unknown:Undefined local symbol L_free$stub
+{standard input}:unknown:Undefined local symbol L_glTexParameterf$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
